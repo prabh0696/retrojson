@@ -3,23 +3,23 @@
     {
       "id": 1,
       "name": "Smith Johnson",
-      "email": "smithjohn1@gmail.com"
-      "phone": "4356781987"
-      "address": "2456 Downtown"
-      "city": "Montreal"
-      "province": "Quebec"
-      "country": "Canada"
+      "email": "smithjohn1@gmail.com",
+      "phone": "4356781987",
+      "address": "2456 Downtown",
+      "city": "Montreal",
+      "province": "Quebec",
+      "country": "Canada",
       "postal": "H1V5T6"
     },
     {
       "id": 2,
       "name": "Alis Brown",
-      "email": "alis.brown@gmail.com"
-      "phone": "4286754565"
-      "address": "2567 Old Port Street"
-      "city": "Montreal"
-      "province": "Quebec"
-      "country": "Canada"
+      "email": "alis.brown@gmail.com",
+      "phone": "4286754565",
+      "address": "2567 Old Port Street",
+      "city": "Montreal",
+      "province": "Quebec",
+      "country": "Canada",
       "postal": "H6T5Y7"
     }
   ]
