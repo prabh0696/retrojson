@@ -1,4 +1,12 @@
 {
+  "users": [
+    {
+      "id": 1,
+      "name": "Smith Johnson",
+      "email": "smithjohn1@gmail.com",
+      "password": "smith1996"
+    }
+  ],
   "profiles": [
     {
       "id": 1,
